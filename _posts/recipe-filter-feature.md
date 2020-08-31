@@ -5,7 +5,7 @@ coverImage: "/assets/blog/recipe-filter-feature/filter-image.png"
 date: "2020-08-21T05:35:07.322Z"
 author:
   name: Prottay Rudra
-  picture: "/assets/blog/authors/prottay-rudra.jpg"
+  picture: "/assets/blog/authors/prottay-rudra-100.jpg"
 ogImage:
   url: "https://i.ibb.co/bLcW1Fk/filter-image.png"
 ---
