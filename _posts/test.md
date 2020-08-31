@@ -1,16 +1,14 @@
 ---
 title: "Ingredient now supports recipe filter feature"
 excerpt: "If you don’t have any specific recipe name in mind, you can use the recipe filter feature"
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+coverImage: "/assets/blog/recipe-filter-feature/filter-image.png"
+date: "2020-08-21T05:35:07.322Z"
 author:
   name: Prottay Rudra
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/prottay-rudra.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "https://i.ibb.co/bLcW1Fk/filter-image.png"
 ---
-
-![68747470733a2f2f692e6962622e636f2f7938444d586e5a2f496e6772656469656e742d536f6369616c2d507265766965772e6a7067.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1598080484628/kwdOVYdJf.jpeg)
 
 [Ingredient](http://ingredient.now.sh/) is a web application that helps you find food dishes, recipes, and prepare ingredients.
 
@@ -18,7 +16,7 @@ Currently, it has access to more than 1.7 million different recipes. You can bro
 
 If you don't have any specific recipe name in mind, you can use the recipe filter feature:
 
-![ingredient search filter demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1598080550376/XJIeouT-t.gif)
+![ingredient search filter demo.gif](/assets/blog/recipe-filter-feature/recipe-filter-demo.gif)
 
 You can filter your recipes based on:
 
@@ -31,6 +29,6 @@ You can filter your recipes based on:
 
 You can also toggle/remove filters that you don't want:
 
-![ingredient close filter demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1598080683688/Rnh-qx-NE.gif)
+![ingredient close filter demo.gif](/assets/blog/recipe-filter-feature/remove-filter-demo.gif)
 
 That's about it. If you found this feature helpful or have any suggestions, you can send [feedback](ingredient2938@gmail.com) about it
