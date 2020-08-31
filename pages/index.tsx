@@ -18,7 +18,11 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Ingredient Blog</title>
+          <meta
+            property="og:image"
+            content="https://i.ibb.co/yB9BHWv/Ingredient-Blog-Social-Preview.jpg"
+          />
+          <title>Blog | Ingredient</title>
         </Head>
         <Container>
           <Intro />
