@@ -41,7 +41,9 @@ const Post = ({ post, morePosts, preview }: Props) => {
                 date={post.date}
                 author={post.author}
               />
-              <PostBody content={post.content} />
+              <div className="markdown-body">
+                <PostBody content={post.content} />
+              </div>
             </article>
           </>
         )}
