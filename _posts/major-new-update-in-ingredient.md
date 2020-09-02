@@ -10,11 +10,11 @@ ogImage:
   url: "https://i.ibb.co/bLcW1Fk/filter-image.png"
 ---
 
-> :arrow_right: Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestion, related images,more detailed info on the recipe/dish, ingredient purchasing option and a new blog.
+> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestion, related images,more detailed info on the recipe/dish, ingredient purchasing option and a new blog.
 
 Heres a brief review:
 
-### 1. Related Image suggestion
+### Related Image suggestion
 
 For each recipe, the application tries to show related images about the dish. So the user can get a better idea of the dish. To do this, the application uses images from _[Pexels](https://www.pexels.com/)_ and _[Unsplash](https://unsplash.com/)_.
 
