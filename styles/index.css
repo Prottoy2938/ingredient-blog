@@ -17,3 +17,9 @@
 a {
   text-decoration: underline;
 }
+
+h3 a,
+h1 a,
+h2 a {
+  text-decoration: none;
+}
