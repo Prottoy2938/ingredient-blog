@@ -12,7 +12,7 @@ ogImage:
 
 > Often when user visits the application they don't have any specific recipe name in mind, but have a overall idea of what he/she wants to cook. In situation like that, a recipe filter feature might come in helpful.
 
-For the past couple of weeks I've been working on implementing recipe filter option on this application. The initial version is complete, it supports multiple filter feature as well as filter toggling/removing option.
+For quite a while I've been working on implementing recipe filter option on this application. The initial version is complete, it supports multiple filter feature as well as filter toggling/removing option.
 
 You can filter your recipes based on:
 
