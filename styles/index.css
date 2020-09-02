@@ -13,3 +13,7 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+a {
+  text-decoration: underline;
+}
