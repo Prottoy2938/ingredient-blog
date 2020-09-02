@@ -10,13 +10,13 @@ ogImage:
   url: "https://i.ibb.co/FWfS8Bg/Ingredient-Blog-2-Preview-1.jpg"
 ---
 
-> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestion, related images,more detailed info on the recipe/dish, and a new blog.
+> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes include video suggestion, related images,more detailed info on the recipe/dish, and a new blog.
 
 Heres a brief review:
 
 ### 1. Detailed Recipe Info
 
-Ingredient now shows much more detailed info about its recipes. These detailed info includes things like the diet, meal, cuisine type, cautions, total calories of the dish. It also has an option to view all the ingredients, health labels, nutrients the dish has and how many people it can serve.
+Ingredient now shows much more details info about its recipes. These detailed info includes things like the diet, meal, cuisine type, cautions, total calories of the dish. It also has an option to view all the ingredients, health labels, nutrients the dish has and how many people it can serve.
 
 ![Detailed Recipe Info](/assets/blog/new-major-changes-in-ingredient/recipe-info.png)
 
@@ -28,7 +28,7 @@ For each recipe, the application tries to show related images about the dish. So
 
 ### 3. Video Suggestion
 
-Under the recipe-info section, now theres a suggested video feature that might contain helpful details about the dish, what to expect and how to prepare the dish. You can also get more related videos if you want. All these videos are from _[Youtube](https://youtube.com/)_.
+Under the recipe-info section, now there's a suggested video feature that might contain helpful details about the dish, what to expect and how to prepare the dish. You can also get more related videos if you want. All these videos are from _[Youtube](https://youtube.com/)_.
 
 ![Checking Suggested Videos](/assets/blog/new-major-changes-in-ingredient/video-browsing-demo-min.gif)
 
