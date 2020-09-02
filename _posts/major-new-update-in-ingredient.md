@@ -10,7 +10,7 @@ ogImage:
   url: "https://i.ibb.co/bLcW1Fk/filter-image.png"
 ---
 
-> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestion, related images,more detailed info on the recipe/dish, ingredient purchasing option and a new blog.
+> :arrow_right: Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestion, related images,more detailed info on the recipe/dish, ingredient purchasing option and a new blog.
 
 Heres a brief review:
 
