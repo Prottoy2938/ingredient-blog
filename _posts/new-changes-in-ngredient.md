@@ -1,7 +1,7 @@
 ---
 title: "New Changes in Ingredient"
 excerpt: "Ingredient now shows more detailed info about its recipes, provides related recipe images, helpful video suggestions and ..."
-coverImage: "/assets/blog/new-major-updates/preview-image.jpg"
+coverImage: "/assets/blog/new-major-changes-in-ingredient/preview-image.jpg"
 date: "2020-09-03T05:35:07.322Z"
 author:
   name: Prottay Rudra
@@ -18,13 +18,19 @@ Heres a brief review:
 
 Ingredient now shows much more detailed info about its recipes. These detailed info includes things like the diet, meal, cuisine type, cautions, total calories of the dish. It also has an option to view all the ingredients, health labels, nutrients the dish has and how many people it can serve.
 
+![Detailed Recipe Info](/assets/blog/new-major-changes-in-ingredient/recipe-info.png)
+
 ### 2. Related Image suggestion
 
 For each recipe, the application tries to show related images about the dish. So the user can get a better idea of the dish. To do this, the application uses images from _[Pexels](https://www.pexels.com/)_ and _[Unsplash](https://unsplash.com/)_. One important thing to tell is that the image suggestion might not always be related to that specific dish.
 
+![Browsing Recipe Images](/assets/blog/new-major-changes-in-ingredient/image-browsing-demo-min.gif)
+
 ### 3. Video Suggestion
 
 Under the recipe-info section, now theres a suggested video feature that might contain helpful details about the dish, what to expect and how to prepare the dish. You can also get more related videos if you want. All these videos are from _[Youtube](https://youtube.com/)_.
+
+![Checking Suggested Videos](/assets/blog/new-major-changes-in-ingredient/video-browsing-demo-min.gif)
 
 ### 4. New Blog
 
