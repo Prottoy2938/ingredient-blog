@@ -16,19 +16,17 @@ For quite a while I've been working on implementing recipe filter option on this
 
 You can filter your recipes based on:
 
-- **Diet Type** ➡ e.g: Low Fat
-- **Cuisine Type** ➡ e.g: British
-- **Dish Type** ➡ e.g: Salad
-- **Calorie Limit** ➡ max 6000 cal
-- **Time Limit** ➡ max 10 hour
+- **Diet Type**, e.g: Low Fat
+- **Cuisine Type**, e.g: British
+- **Dish Type**, e.g: Salad
+- **Calorie Limit**, max 6000 cal
+- **Time Limit**, max 10 hour
 - **Immune Supportive** (special)
 
 ![ingredient search filter demo.gif](/assets/blog/recipe-filter-feature/recipe-filter-demo.gif)
-
-<br />
 
 You can also toggle/remove filters that you don't want:
 
 ![ingredient close filter demo.gif](/assets/blog/recipe-filter-feature/remove-filter-demo.gif)
 
-That's about it. If you found this feature helpful or have any suggestions, you can send **[feedback](ingredient2938@gmail.com)** about it.
+That's about it. If you found this feature helpful or have any suggestions, you can send _[feedback](ingredient2938@gmail.com)_ about it.

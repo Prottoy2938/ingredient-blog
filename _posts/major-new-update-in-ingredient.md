@@ -18,10 +18,9 @@ Heres a brief review:
 
 For each recipe, the application tries to show related images about the dish. So the user can get a better idea of the dish. To do this, the application uses images from _[Pexels](https://www.pexels.com/)_ and _[Unsplash](https://unsplash.com/)_. One important thing to discuss is that the image suggestion might not always be related to that specific dish.
 
-Data is:
-
 - icon change
-  - new table, ingredient, buy option,
-  - video option
-  - pexels, discord, image, warning
-  - new blog
+
+- new table, ingredient, buy option,
+- video option
+- pexels, discord, image, warning
+- new blog
