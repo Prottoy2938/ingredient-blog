@@ -34,7 +34,7 @@ Under the recipe-info section, now there's a suggested video feature that might 
 
 ### 4. New Blog
 
-Ingredient application now has a _[blog](https://ingredient-blog.prottoy2938.vercel.app/)_, where we will create blogs about the features, previews, announcements or future plan of the application.
+Ingredient application now has a _[blog](https://ingredient-blog.prottoy2938.vercel.app/)_, where we will create blogs about the features, previews, announcements or future plans of this application.
 
 There were also some minor changes like,
 
