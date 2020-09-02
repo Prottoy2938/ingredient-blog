@@ -28,14 +28,7 @@
   }
 }
 
-div a {
+em a {
   text-decoration: underline !important;
   color: black !important;
-}
-
-h3 a,
-h1 a,
-h2 a,
-.tracking-tight {
-  text-decoration: none !important;
 }
