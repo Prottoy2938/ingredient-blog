@@ -11,7 +11,7 @@ ogImage:
   url: "https://i.ibb.co/FWfS8Bg/Ingredient-Blog-2-Preview-1.jpg"
 ---
 
-> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes include video suggestion, related images,more detailed info on the recipe/dish, and a new blog.
+> Over the past couple of weeks, there have been some major changes in the Ingredient application. Some of these changes includes video suggestiosn, related recipe images, more detailed info about recipe/dish, and a new blog.
 
 Heres a brief review:
 
