@@ -19,6 +19,10 @@ const Index = ({ allPosts }: Props) => {
       <Layout>
         <Head>
           <meta
+            property="og:description"
+            content="Ingredient Blog - updates, announcements, previews, behind the interface and more about the application"
+          />
+          <meta
             property="og:image"
             content="https://i.ibb.co/yB9BHWv/Ingredient-Blog-Social-Preview.jpg"
           />
