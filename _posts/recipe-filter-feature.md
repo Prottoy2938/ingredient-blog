@@ -1,6 +1,7 @@
 ---
 title: "Ingredient now supports recipe filter feature"
 excerpt: "Often when user visits the application they don't have any specific recipe name in mind, but have a overall idea of ..."
+metaDescription: "Ingredient application now has advanced recipe filter feature that allows user to filter recipes based on their criteria"
 coverImage: "/assets/blog/recipe-filter-feature/filter-image.png"
 date: "2020-08-21T05:35:07.322Z"
 author:

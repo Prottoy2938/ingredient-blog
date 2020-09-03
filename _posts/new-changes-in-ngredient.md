@@ -1,6 +1,7 @@
 ---
 title: "New Changes in Ingredient"
 excerpt: "Ingredient now shows more detailed info about its recipes, provides related recipe images, helpful video suggestions and ..."
+metaDescription: "New changes in Ingredient. Now the application shows more detailed info about its recipes, provides related recipe images, helpful video suggestions and more"
 coverImage: "/assets/blog/new-major-changes-in-ingredient/preview-image.jpg"
 date: "2020-09-03T05:35:07.322Z"
 author:
