@@ -30,4 +30,4 @@ You can also toggle/remove filters that you don't want:
 
 ![ingredient close filter demo.gif](/assets/blog/recipe-filter-feature/remove-filter-demo.gif)
 
-That's about it. If you found this feature helpful or have any suggestions, you can send _[feedback](ingredient2938@gmail.com)_ about it.
+That's about it. If you found this feature helpful or have any suggestions, you can send _[feedback](https://ingredient.recipes/feedback)_ about it.
